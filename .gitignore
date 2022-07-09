@@ -1,0 +1,10 @@
+# build files
+out/
+test-build/
+release/
+# debug files
+.vscode/
+__pycache__/
+*/__pycache__/
+# Test files
+test.py
