@@ -1,2 +1,2 @@
 #!/usr/bin/env python
-from source import *
+from source import wineCallFuncLib, winePathSearch
